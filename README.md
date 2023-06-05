@@ -34,7 +34,7 @@ map.html
 <font color="blue"><b>NANDHINI S (212222220028)</b></font>
 </h3>
 <center>
-<img src="/static/images/![map](https://github.com/nandhu6523/places-around-me/assets/123856724/b6bbc612-00da-4dc7-87c7-0a7677cfb09f)"usemap="#MyCity"height="420" width="1100">
+<img src="/static/images/map.png"usemap="#MyCity"height="420" width="1100">
   
 <map name="MyCity">
 <area shape="circle" coords="190,50,20" href="/static/html/school.html" title="Sana Model school">
