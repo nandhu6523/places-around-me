@@ -23,29 +23,17 @@ map.html
 <!DOCTYPE html>
 
 <html lang="en">
-  
 <head>
-  
 <title>My City</title>
-  
 </head>
-  
 <body>
-  
 <h1 align="center">
-  
 <font color="red"><b>Kattupakam</b></font>
-  
 </h1>
-  
 <h3 align="center">
-  
 <font color="blue"><b>NANDHINI S (212222220028)</b></font>
-  
 </h3>
-  
 <center>
-  
 <img src="/static/images/map.png" usemap="#MyCity" height="420" width="1100">
   
 <map name="MyCity">
@@ -65,33 +53,19 @@ map.html
 college.html
 
 <!DOCTYPE html>
-
-<html lang="en">
-  
-<head>
-  
-<title>Saveetha Dental College and Hospital</title>
-  
-</head>
-  
+<html lang="en"> 
+<head>  
+<title>Saveetha Dental College and Hospital</title> 
+</head> 
 <body bgcolor="yellow">
-  
 <h1 align="center">
-  
-<font color="red"><b>Kattupakam</b></font>
-  
-</h1>
-  
+<font color="red"><b>Kattupakam</b></font>  
+</h1> 
 <h3 align="center">
-  
 <font color="blue"><b>Saveetha Dental College</b></font>
-  
 </h3>
-  
 <hr size="3" color="red">
-  
 <p align="justify">
-  
 <font face="Tahoma" size="5">
   
 Saveetha Dental College & Hospital was established in 1988. 
@@ -99,21 +73,16 @@ The college is recognized by the Dental Council of India (DCI) and is affiliated
 to Saveetha Institute of Medical and Technical Sciences (SIMATS).The college is located in Chennai.
 Presently, it offers UG, PG, Fellowship and Doctoral Courses. It has 21 award-winning departments with 137 faculty members in it. This institution was ranked 9th and 21st by ‘The Week’ and ‘India Today’ in 2019. 
 The aim of the college is to produce strong confident successful professionals by imparting education. 
-</font>
-  
-</p>
-  
-</body>
-  
+</font>  
+</p>  
+</body>  
 </html>
 
 
 hospital.html
 
 <!DOCTYPE html>
-
-<html lang="en">
-  
+<html lang="en"> 
 <head>
 <title>Aravind Eye Hospital</title>
 </head>
