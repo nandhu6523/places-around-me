@@ -29,8 +29,7 @@ map.html
 <body>
 <h1 align="center">
 <font color="red"><b>Kattupakam</b></font>
-</h1>![map](https://github.com/nandhu6523/places-around-me/assets/123856724/b6bbc612-00da-4dc7-87c7-0a7677cfb09f)
-
+</h1>
 <h3 align="center">
 <font color="blue"><b>NANDHINI S (212222220028)</b></font>
 </h3>
